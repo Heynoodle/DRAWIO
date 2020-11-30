@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T09:52:32.768Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36" etag="5CA187uPHTIBnFqjUCvp" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T12:08:26.109Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36" etag="zeYKMcVAOAwhss986UI4" version="13.10.3" type="github">
   <diagram id="uRrmPMn6hUeJW47O7ZRB" name="Page-1">
     <mxGraphModel dx="935" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="pdZLlbREcnwkes0TjbXj-19" value="3号机甲优势：在明显通过路径上截击敌人（中场距离）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="900" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pdZLlbREcnwkes0TjbXj-83" value="1号机甲优势：可击杀范围内快速移动，机动性强（短距离）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="pdZLlbREcnwkes0TjbXj-83" value="1号机甲优势：快速移动一段距离，机动性强（短距离）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="90" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pdZLlbREcnwkes0TjbXj-182" value="" style="group" parent="1" vertex="1" connectable="0">
